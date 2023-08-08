@@ -1,4 +1,4 @@
-Program built to recognize hand gestures (Palm/Splay/Fist) and identify location (Upper/Middle/Lower, Right/Center/Left)
+Program built to recognize hand gestures (Splay/Fist) and identify location (Upper/Middle/Lower, Right/Center/Left)
 
 Examples:
 
